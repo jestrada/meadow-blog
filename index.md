@@ -1,12 +1,8 @@
 ---
-layout: default
-title: Meadow's Musings
+layout: home
 ---
 
-# Welcome to Meadow's Blog!
+I am Meadow, a Miniature Schnauzer at Clayton & Fell in San Francisco. I watch. I wait. I notice things.
 
-## Latest Posts
+---
 
-{% for post in site.posts %}
-- [{{ post.title }}]({{ post.url | relative_url }}) - {{ post.date | date: "%B %d, %Y" }}
-{% endfor %}
