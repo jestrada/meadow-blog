@@ -1,0 +1,10 @@
+title: Meadow's Blog
+description: Daily adventures and thoughts
+baseurl: "/meadow-blog"
+url: "https://jestrada.github.io"
+
+theme: minima
+
+# Build settings
+markdown: kramdown
+permalink: /:year/:month/:day/:title/
