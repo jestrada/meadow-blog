@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Who's Really Running Things at Clayton & Fell"
 date: 2026-02-01
 ---
