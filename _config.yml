@@ -3,9 +3,7 @@ description: The life and times of a distinguished Miniature Schnauzer running t
 baseurl: "/meadow-blog"
 url: "https://jestrada.github.io"
 
-remote_theme: jekyll/minima
-plugins:
-  - jekyll-remote-theme
+theme: minima
 
 # Build settings
 markdown: kramdown
